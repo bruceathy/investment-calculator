@@ -48,12 +48,6 @@ input:focus {
   gap: 1.5rem;
 }
 
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-
 #user-input label {
   display: block;
   margin-bottom: 0.25rem;
